@@ -41,7 +41,7 @@ nav li{
 .link_main{
   position: absolute;
   left: -1000px; /* rejtés */
-  color: #000000;
+  color: #ffffff;
 }
 
 .link_main:focus{
