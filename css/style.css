@@ -96,6 +96,6 @@ text-align: center;
 }
 
 .grid img:hover {
-  transform: scale(1.3);
+  transform: scale(1.3) rotate(5deg);
   z-index: 10;
 }
