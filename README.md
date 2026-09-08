@@ -1,2 +1,1 @@
-# hazi3
-hazi3
+# Házi feldat 2
